@@ -23,3 +23,12 @@ http://www.bigbearautomation.com/HT91108.htm
 ### Waffle
 
 The waffle is a 3D printed part designed by the authors which is used as a staging point for bacteria culture loaded onto the deck. The 3D printing (.stl) file can be obtained from the Waffle folder.
+
+### Scripts
+
+Ready-made scripts for running PRANCE and other methods are in PyHamilton_Methods. To run one of these, open a CMD shell and enter
+
+```bat
+cd PRANCE\PyHamilton_Methods\210210_PRANCE_w_errorrecovery
+py robot_method.py
+```
