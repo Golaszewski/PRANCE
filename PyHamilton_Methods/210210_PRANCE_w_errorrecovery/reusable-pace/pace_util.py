@@ -17,7 +17,7 @@ global_log_dir = os.path.join(dropbox_dir, 'Monitoring', 'log')
 pyham_pkg_path = os.path.join(methods_dir, 'perma_oem', 'pyhamilton')
 reader_mod_path = os.path.join(methods_dir, 'perma_plate_reader', 'platereader')
 pump_pkg_path = os.path.join(methods_dir, 'perma_pump', 'auxpump')
-agrow_pump_pkg_path = os.path.join(methods_dir, 'perma_pump', 'auxpump')
+agrow_pump_pkg_path = os.path.join(methods_dir, 'perma_pump', 'agrow_pumps')
 shaker_pkg_path = os.path.join(methods_dir, 'perma_shaker', 'auxshaker')
 
 LAYFILE = os.path.join(this_file_dir, 'assets', 'deck.lay')
