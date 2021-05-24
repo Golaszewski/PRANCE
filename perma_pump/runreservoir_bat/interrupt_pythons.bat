@@ -1,0 +1,1 @@
+plink pi_static_ssh -m C:\Users\Hamilton\Dropbox\Hamilton_Methods\perma_pump_arduino\i2cpump\runreservoir_bat\remote_cmd_scripts\interruptpycmd.sh
