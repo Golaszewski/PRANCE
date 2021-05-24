@@ -26,8 +26,8 @@ The waffle is a 3D printed part designed by the authors which is used as a stagi
 
 ### Scripts
 
-Ready-made scripts for running PRANCE and other methods are in PyHamilton_Methods. To run one of these, open a CMD shell and enter
-
+Ready-made scripts for running PRANCE and other methods are in PyHamilton_Methods. To run one of these, open a CMD shell, navigate to the folder
+containing the desired script, and run with py. For example:
 ```bat
 cd PRANCE\PyHamilton_Methods\210210_PRANCE_w_errorrecovery\reusable-pace
 py robot_method.py
