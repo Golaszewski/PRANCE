@@ -1,4 +1,4 @@
 # PRANCE
 # Phage-and-Robotics Assisted Near-Continuous Evolution
 
-![alt text](PRANCE/Extras/drawing.png)
+![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/drawing.png)
