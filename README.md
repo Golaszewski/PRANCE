@@ -21,3 +21,6 @@ The orbital shaker is fitted to the waffle. Refer to the Shaker Setup folder for
 
 http://www.bigbearautomation.com/HT91108.htm
 
+# Waffle
+
+The waffle is a 3D printed part designed by the authors which is used as a staging point for bacteria culture loaded onto the deck. The 3D printing (.stl) file can be obtained from the Waffle folder.
