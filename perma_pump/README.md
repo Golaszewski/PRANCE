@@ -11,3 +11,11 @@ Once the pump is set up, go to the [Agrowtek downloads page](https://www.agrowte
 Next, open the ModLINK utility. Verify that the default settings are correct (Data Bits: 8, Parity: Even, Stop Bits: One, Baud Rate: 115200) in the ModLINK Settings tab. Then go to the slave devices tab, set an address in the Device Address section, and click Set. It is not important what the address is, except that each pump array must have a unique address. This step is necessary for operating the pumps from the Python interface provided.
 
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/perma_pump/ModLINK.png)
+
+Now you can import the pump interface into a script with
+
+```python
+from pace_util import AgrowPumps
+
+pumps=AgrowPumps(port="COM10")
+```
