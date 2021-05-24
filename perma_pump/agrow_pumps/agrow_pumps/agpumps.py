@@ -71,10 +71,16 @@ class AgrowModbusInterface():
     
     def ensure_set_speed(self,address,set_speed):
         speed=self.modbus.read_holding_registers(address, 1, unit = 1).registers[0]
+        print(set_speed)
+        print("entering while loop")
         while speed!=set_speed:
+            print(speed)
             self.modbus.write_register(address, set_speed, unit = 1)
+            print("wrote register")
             time.sleep(3)
+            print("slept")
             speed=self.modbus.read_holding_registers(address, 1, unit = 1).registers[0]
+            print("read register")
             
     def pump_by_number(self,pump,volume):
         self.pump_by_address(self.modbus_pump_map[pump], volume)
@@ -83,8 +89,8 @@ class AgrowPumps(AgrowModbusInterface):
     
     bacteria_pump_map={'0':1,'1':2,'2':3}
     
-    def __init__(self):
-        super().__init__()
+    def __init__(self, port="COM14"):
+        super().__init__(port)
         
     def ensure_empty(self):
         self.pump_by_number(pump=6,volume=35) #Pump 6 is waste
