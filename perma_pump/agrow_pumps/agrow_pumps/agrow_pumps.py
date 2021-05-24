@@ -77,7 +77,7 @@ class AgrowModbusInterface():
             speed=self.modbus.read_holding_registers(address, 1, unit = 1).registers[0]
             
     def pump_by_number(self,pump,volume):
-        self.pump_by_address(self.modbus_pump_map[pump],volume)
+        self.pump_by_address(self.modbus_pump_map[pump], volume)
         
 class AgrowPumps(AgrowModbusInterface):
     
