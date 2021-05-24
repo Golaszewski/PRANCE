@@ -17,6 +17,7 @@ global_log_dir = os.path.join(dropbox_dir, 'Monitoring', 'log')
 pyham_pkg_path = os.path.join(methods_dir, 'perma_oem', 'pyhamilton')
 reader_mod_path = os.path.join(methods_dir, 'perma_plate_reader', 'platereader')
 pump_pkg_path = os.path.join(methods_dir, 'perma_pump', 'auxpump')
+agrow_pump_pkg_path = os.path.join(methods_dir, 'perma_pump', 'auxpump')
 shaker_pkg_path = os.path.join(methods_dir, 'perma_shaker', 'auxshaker')
 
 LAYFILE = os.path.join(this_file_dir, 'assets', 'deck.lay')
@@ -32,7 +33,7 @@ SMALLER_TIP_CLASS = 'StandardVolumeFilter_Water_DispenseSurface_Part_no_transpor
 #imported_mod = importlib.import_module(pkgname)
 #TODO: END REMOVE
 
-for imp_path in (pyham_pkg_path, reader_mod_path, pump_pkg_path, shaker_pkg_path):
+for imp_path in (pyham_pkg_path, reader_mod_path, pump_pkg_path, shaker_pkg_path, agrow_pump_pkg_path):
     pkgname = os.path.basename(imp_path)
     try:
         imported_mod = importlib.import_module(pkgname)
@@ -50,6 +51,7 @@ from pyhamilton import (HamiltonInterface, LayoutManager, ResourceType, Plate24,
 from platereader.clariostar import ClarioStar, PlateData
 from auxpump.pace import OffDeckCulturePumps, LBPumps
 from auxshaker.bigbear import Shaker
+from agrow_pumps.agpumps import AgrowPumps
 import send_email
 
 class CoolPrancePumps(LBPumps):
