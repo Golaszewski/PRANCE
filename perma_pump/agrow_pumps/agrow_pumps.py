@@ -45,7 +45,7 @@ class AgrowModbusInterface():
     } # Pump number to modbus register
     
     def __init__(self,port='COM14'):
-        self.modbus = ModbusClient(method='rtu', port='COM14', baudrate=115200, timeout=1, stopbits = 1, bytesize = 8, parity = 'E')
+        self.modbus = ModbusClient(method='rtu', port=port, baudrate=115200, timeout=1, stopbits = 1, bytesize = 8, parity = 'E')
         self.modbus.connect()
 
     def pump_by_address(self,address,volume,speed='low'):
