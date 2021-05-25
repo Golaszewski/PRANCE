@@ -1,5 +1,5 @@
 # pyhamilton
- ![alt_text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/method.png)
+ ![alt_text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/method.svg)
 **Python for Hamilton liquid handling robots**
 
 Hamilton software only works on Windows, so the same goes for pyhamilton.
