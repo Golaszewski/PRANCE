@@ -29,14 +29,15 @@ with HamiltonInterface() as ham_int:
     ```
 7. **Run.** If you have other Python versions installed, always run pyhamilton with `py yourmethod.py` (the bundled Python launcher, which interprets shebangs) or `python3 yourmethod.py`
 
+## PyHamilton Data Flow Diagram
+ ![alt_text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/method.svg)
+
 ## Applications
 
 - [A high-throughput platform for feedback-controlled directed evolution](https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1), _preprint_
 
 - [Flexible open-source automation for robotic bioengineering](https://www.biorxiv.org/content/10.1101/2020.04.14.041368v1), _preprint_
 
-## PyHamilton Data Flow Diagram
- ![alt_text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/method.svg)
 
 
 _Contact: dgretton@mit.edu_
