@@ -1,9 +1,9 @@
-from pace_util_stefan_dev import resource_list_with_prefix
-from pace_util_stefan_dev import LayoutManager
-from pace_util_stefan_dev import Plate96
-from pace_util_stefan_dev import Tip96
-from pace_util_stefan_dev import LAYFILE
-from pace_util_stefan_dev import layout_item
+from pace_util import resource_list_with_prefix
+from pace_util import LayoutManager
+from pace_util import Plate96
+from pace_util import Tip96
+from pace_util import LAYFILE
+from pace_util import layout_item
 
 lay_mgr = LayoutManager(LAYFILE)
 

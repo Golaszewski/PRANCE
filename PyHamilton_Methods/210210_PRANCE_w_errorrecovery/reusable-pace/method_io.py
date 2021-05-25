@@ -2,9 +2,9 @@ import os
 import sqlite3
 import csv
 from datetime import datetime as dt
-from pace_util_stefan_dev import method_local_dir
-from pace_util_stefan_dev import containing_dirname
-from pace_util_stefan_dev import ROBOID
+from pace_util import method_local_dir
+from pace_util import containing_dirname
+from pace_util import ROBOID
 
 from pyhamilton import Plate96
 import logging
