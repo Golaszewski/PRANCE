@@ -7,6 +7,10 @@ For a Hamilton robot to be PRANCE-compatible, certain equipment must be installe
 ### P&ID for Liquid Flow-paths
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/pid.png)
 
+### Deck Layout Diagram
+![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/decklayout.svg)
+
+
 ### Pumps
 Agrowtek AD6i dosing pump is recommended for the custom pump array.
 
