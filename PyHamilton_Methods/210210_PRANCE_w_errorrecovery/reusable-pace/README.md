@@ -8,3 +8,5 @@ This script is for running PRANCE
 
 ![alt_text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/prep_reader_plate.svg)
 
+![alt_text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/read_plate.svg)
+
