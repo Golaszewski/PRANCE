@@ -1,8 +1,10 @@
 # PRANCE: Phage-and-Robotics Assisted Near-Continuous Evolution
 
-PRANCE is a new method for PHAGE-assisted evolution of biomolecules.
+PRANCE is a new method for phage-assisted evolution of biomolecules.
 
 For a Hamilton robot to be PRANCE-compatible, certain equipment must be installed.
+
+https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1
 
 ### P&ID for Liquid Flow-paths
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/pid.png)
