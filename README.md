@@ -22,12 +22,6 @@ your own integration schemes if you choose this option.
 
 https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1
 
-### P&ID for Liquid Flow-paths
-![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/pid.png)
-
-### Deck Layout Diagram
-![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/decklayout.svg)
-
 
 ### Pumps
 Agrowtek AD6i dosing pump is recommended for the custom pump array.
@@ -38,13 +32,25 @@ For installation refer to the perma_pump folder.
 
 ### Orbital Shaker
 
-The orbital shaker is fitted to the waffle. Refer to the perma_shaker folder for installation.
+The orbital shaker used here is the HT91108 from Big Bear Automation.
+It is fitted to the waffle with a baseboard. Refer to the perma_shaker folder for installation.
 
 http://www.bigbearautomation.com/HT91108.htm
 
 ### Waffle
 
-The waffle is a 3D printed part designed by the authors which is used as a staging point for bacteria culture loaded onto the deck. The 3D printing (.stl) file can be obtained from the Waffle folder.
+The waffle is a 3D printed part designed by the authors which is used as an initial staging point for bacteria culture as it is loaded onto the deck. The 3D printing (.stl) file can be obtained from the Waffle folder.
+
+### Plate Reader
+
+The plate reader is a Clariostar Plate Reader. Follow the instructions in the perma_plate_reader folder for detailed installation instructions.
+
+### P&ID for Liquid Flow-paths
+![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/pid.png)
+
+### Deck Layout Diagram
+![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/decklayout.svg)
+
 
 ### Scripts
 
