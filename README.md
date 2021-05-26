@@ -4,6 +4,17 @@ PRANCE is a new method for phage-assisted evolution of biomolecules.
 
 For a Hamilton robot to be PRANCE-compatible, certain equipment must be installed.
 
+## How to enable PRANCE on a Hamilton Microlab STAR
+
+The most general requirements for running PRANCE are a way to load multiple
+sources of constant OD bacteria culture onto the robot deck, a way to wash and
+sterilize tips for reuse, and a way to automatically obtain real-time spectrophotometric 
+measurements from phage-inoculated bacteria culture on the deck.
+
+This guide outlines certain equipment, configurations, and practices that
+the authors have found to be the easiest and most widely accessible means
+of running PRANCE on a Hamilton Microlab STAR.
+
 https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1
 
 ### P&ID for Liquid Flow-paths
