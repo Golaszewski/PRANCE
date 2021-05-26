@@ -45,6 +45,10 @@ The waffle is a 3D printed part designed by the authors which is used as an init
 
 The plate reader is a Clariostar Plate Reader. Follow the instructions in the perma_plate_reader folder for detailed installation instructions.
 
+### Hamilton CO-RE 384 Wash Station
+This includes the bleach, water, and waste storage tanks and a pump array connecting these to the wash station itself. These
+storage tanks have separate hookups to the waffle to enable washing and sterilization between bacteria loading cycles.
+
 ### P&ID for Liquid Flow-paths
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/pid.png)
 
