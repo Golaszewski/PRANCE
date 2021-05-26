@@ -11,9 +11,13 @@ sources of constant OD bacteria culture onto the robot deck, a way to wash and
 sterilize tips for reuse, and a way to automatically obtain real-time spectrophotometric 
 measurements from phage-inoculated bacteria culture on the deck.
 
-This guide outlines certain equipment, configurations, and practices that
+This repository provides a Python script for running PRANCE, but 
+also outlines certain equipment, configurations, and practices that
 the authors have found to be the easiest and most widely accessible means
-of running PRANCE on a Hamilton Microlab STAR.
+of enabling PRANCE to run on a Hamilton Microlab STAR. The script as provided
+only works with the specific equipment indicated in this guide. While 
+using different equipment will produce the same experimental outcomes, you will
+have to create and implement your own integration schemes. 
 
 https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1
 
