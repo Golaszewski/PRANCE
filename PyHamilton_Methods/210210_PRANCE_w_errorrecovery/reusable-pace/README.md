@@ -7,6 +7,8 @@ cd PRANCE\PyHamilton_Methods\210210_PRANCE_w_errorrecovery
 py robot_method.py
 ```
 
+## Navigating this folder
+robot_method.py imports a number of functions and data from other files in this folder.
 
 ![alt_text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/lagoon_prep.svg)
 
