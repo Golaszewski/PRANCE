@@ -12,26 +12,9 @@ import serial
 import logging
 import time
 
-#instrument = minimalmodbus.Instrument('COM3', 1, mode=MODE_RTU, close_port_after_each_call=False, debug=True)  # port name, slave address (in decimal)
-#print(instrument.serial)
-#instrument.serial.baudrate = 115200
-#instrument.serial.timeout=2
-#instrument.serial.parity=serial.PARITY_EVEN
-#instrument.serial.stopbits=1
-#print(instrument.serial)
-#response=instrument.read_long(49005)
-#response=instrument.read_register(40101)
-#response=instrument.read_string(40012, number_of_registers=4)
-#print(response)
-#instrument.write_register(40008,10)
-#instrument.serial.close()
+
 
 from pymodbus.client.sync import ModbusSerialClient as ModbusClient
-#print(modbus)
-
-#r = modbus.read_holding_registers(4, 4, unit=1)
-#print(r.registers)
-
 
 class AgrowModbusInterface():
     
