@@ -46,7 +46,7 @@ The plate reader is a Clariostar Plate Reader. Follow the instructions in the pe
 This includes the bleach, water, and waste storage tanks and a pump array connecting these to the wash station itself. These
 storage tanks have separate hookups to the waffle to enable washing and sterilization between bacteria loading cycles.
 
-### P&ID for Liquid Flow-paths
+### Flow Diagram for PRANCE
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/pid.png)
 
 ### Deck Layout Diagram
