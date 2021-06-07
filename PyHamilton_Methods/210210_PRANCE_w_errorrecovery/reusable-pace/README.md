@@ -12,6 +12,8 @@ Other scripts are included to calibrate the position of your reader tray (`reade
 ## Navigating this folder
 robot_method.py imports a number of functions and data from other files in this folder.
 
+## Process Diagram
+
 
 
 ![alt_text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/lagoon_prep.svg)
