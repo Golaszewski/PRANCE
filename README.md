@@ -7,7 +7,7 @@ For a Hamilton robot to be PRANCE-compatible, certain equipment must be installe
 ## How to enable PRANCE on a Hamilton Microlab STAR
 
 The most general requirements for running PRANCE are a way to load multiple
-sources of constant OD bacteria culture onto the robot deck, a way to wash and
+sources of bacteria culture at a fixed optical density onto the robot deck, a way to wash and
 sterilize tips for reuse, and a way to automatically obtain real-time spectrophotometric 
 measurements from phage-inoculated bacteria culture on the deck.
 
