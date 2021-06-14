@@ -14,10 +14,9 @@ measurements from phage-inoculated bacteria culture.
 This repository provides a Python script for running PRANCE, but 
 also outlines certain equipment, configurations, and practices that
 the authors have found to be the easiest and most widely accessible means
-of enabling PRANCE to run on a Hamilton Microlab STAR. The script as provided
-only works with the specific equipment indicated in this guide. While 
-using different equipment will produce the same experimental outcomes as
-long as the protocol is followed correctly, you will have to create and implement 
+of enabling PRANCE to run on a Hamilton Microlab STAR. The code provided
+only works with the specific equipment indicated in this guide. Different equipment will produce the 
+same experimental outcome  as long as the protocol is followed, but you will have to create and implement 
 your own integration schemes if you choose this option. 
 
 https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1
@@ -31,6 +30,7 @@ https://www.agrowtek.com/index.php/products/dosing_systems/dosing-pumps/agrowdos
 For installation refer to the perma_pump folder.
 
 ### Orbital Shaker
+
 The orbital shaker used here is the HT91108 from Big Bear Automation.
 It is fitted to the waffle with a baseboard. Refer to the perma_shaker folder for installation.
 
