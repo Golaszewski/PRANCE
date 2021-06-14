@@ -47,8 +47,8 @@ This includes the bleach, water, and waste storage tanks and a pump array connec
 storage tanks have separate hookups to the waffle to enable washing and sterilization between bacteria loading cycles.
 
 
-## Flow-paths for PRANCE
-
+## Flowpaths for PRANCE
+A number of surgical tubing connections are used to load bacteria into the waffle, to wash and sterilize the waffle
 
 ### Flow Diagram for PRANCE
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/pid.png)
