@@ -49,7 +49,7 @@ storage tanks have separate hookups to the waffle to enable washing and steriliz
 
 ## Flowpaths for PRANCE
 
-
+The washer pump module loads bleach and water from storage tanks into the CO-RE washer module on the robot deck. The washer pump module also pumps water, bleach solution, and waste from the washer module into the waste storage tank. A separate pump constantly pumps waste from the waste storage tank to the sink for automatic disposal. Note that bleach inactivation of biohazards may take up to 20 minutes. Check with your EHS team to make sure your PRANCE setup is compliant with health and safety standards.
 
 ### Flow Diagram for PRANCE
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/pid.png)
