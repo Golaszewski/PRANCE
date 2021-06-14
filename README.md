@@ -61,6 +61,8 @@ load bacteria from three flasks held in a 4 deg. C refrigerator to keep bacteria
 
 The deck layout for PRANCE consists of the waffle+shaker, the CO-RE washer module, 1000uL pipette tip racks, several sets of wells to hold bacteria culture at various stages, and reader plates for measuring samples from phage-inoculated bacteria culture.
 
+Refer to the \assets\deck.lay file in the relevant method folder for the exact configuration of deck components.
+
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/decklayout.svg)
 
 
