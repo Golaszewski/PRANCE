@@ -20,4 +20,4 @@ from pace_util import AgrowPumps
 pumps=AgrowPumps(port="COM10")
 ```
 
-If the you get a time-out error while setting up the pumps, power cycle the array by unplugging it and then reset the address in ModLINK. This might take a few tries.
+If you get a time-out error while setting up the pumps, power cycle the array by unplugging it and then reset the address in ModLINK. This might take a few tries.
