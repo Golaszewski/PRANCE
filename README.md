@@ -9,7 +9,7 @@ For a Hamilton robot to be PRANCE-compatible, certain equipment must be installe
 The most general requirements for running PRANCE are a way to load multiple
 sources of bacteria culture at a fixed optical density onto the robot deck, a way to wash and
 sterilize tips for reuse, and a way to automatically obtain real-time spectrophotometric 
-measurements from phage-inoculated bacteria culture on the deck.
+measurements from phage-inoculated bacteria culture.
 
 This repository provides a Python script for running PRANCE, but 
 also outlines certain equipment, configurations, and practices that
