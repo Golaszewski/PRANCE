@@ -21,8 +21,6 @@ py robot_method.py --simulate
 
 Other scripts are included to calibrate the position of your reader tray (`readertraycalibration.py`), stage pipette tips (`48tipstaging.py`), and other activities associated with PRANCE.
 
-## Navigating this folder
-robot_method.py imports a number of functions and data from other files in this folder.
 
 ## Process Diagram
 
