@@ -15,7 +15,8 @@ Next, open the ModLINK utility. Verify that the default settings are correct (Da
 Now you can import the pump interface into a script with
 
 ```python
-from pace_util import AgrowPumps
+from agrow_pumps.agpumps import AgrowPumps
+
 
 pumps=AgrowPumps(port="COM10")
 ```
