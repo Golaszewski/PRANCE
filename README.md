@@ -34,7 +34,7 @@ your own integration schemes if you choose this option.
 
 Equipment | Description
 ------------- | -------------
-Pumps  | Agrowtek AD6i dosing pump is recommended for the custom pump array.
+Pumps  | Agrowtek AD6i dosing pump is recommended for the custom pump array. The waste pump is a cheap 12V peristaltic pump directly wired to a power source without any control elements.
 Orbital Shaker | The orbital shaker used here is the HT91108 from Big Bear Automation. It is fitted to the waffle with a baseboard. Refer to the perma_shaker folder for installation.
 Waffle | The waffle is a 3D printed part designed by the authors which is used as an initial staging point for bacteria culture as it is loaded onto the deck. The 3D printing (.stl) file can be obtained from the Waffle folder.
 Plate Reader |  The plate reader is a Clariostar Plate Reader. Follow the instructions in the perma_plate_reader folder for detailed installation instructions.
