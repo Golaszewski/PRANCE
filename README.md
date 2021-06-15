@@ -1,6 +1,6 @@
 # PRANCE: Phage-and-Robotics Assisted Near-Continuous Evolution
 
-![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/Life-cycle-of-filamentous-phages-Filamentous-phage-binds-to-the-F-pilus-of-a-host-E%20(1).png)
+![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/Life-cycle-of-filamentous-phages-Filamentous-phage-binds-to-the-F-pilus-of-a-host-E%20(1).png =300x300)
 
 *Huang, Johnny & Bishop-Hurley, Sharon & Cooper, Matthew. (2012). Development of Anti-Infectives Using Phage Display: Biological Agents against Bacteria, Viruses, and Parasites. Antimicrobial agents and chemotherapy. 56. 4569-82. 10.1128/AAC.00567-12.*
 
