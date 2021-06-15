@@ -21,6 +21,19 @@ your own integration schemes if you choose this option.
 
 https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1
 
+First Header  | Second Header
+------------- | -------------
+Pumps  | Agrowtek AD6i dosing pump is recommended for the custom pump array.
+Orbital Shaker | The orbital shaker used here is the HT91108 from Big Bear Automation. It is fitted to the waffle with a baseboard. Refer to the perma_shaker folder for installation.
+Waffle | The waffle is a 3D printed part designed by the authors which is used as an initial staging point for bacteria culture as it is loaded onto the deck. The 3D printing (.stl) file can be obtained from the Waffle folder.
+Plate Reader |  The plate reader is a Clariostar Plate Reader. Follow the instructions in the perma_plate_reader folder for detailed installation instructions.
+Hamilton CO-RE 384 Wash Station | This includes the bleach, water, and waste storage tanks and a pump array connecting these to the wash station itself. These storage tanks have separate hookups to the waffle to enable washing and sterilization between bacteria loading cycles.
+
+
+
+
+
+Content Cell  |  \| 
 
 * Pumps
 Agrowtek AD6i dosing pump is recommended for the custom pump array.
