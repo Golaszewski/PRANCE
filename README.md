@@ -54,7 +54,7 @@ Refer to the \assets\deck.lay file in the relevant method folder for the exact c
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/decklayout.svg)
 
 
-### Scripts
+## Running PRANCE Scripts
 
 Ready-made scripts for running PRANCE and other methods are in PyHamilton_Methods. To run one of these, open a CMD shell, navigate to the folder
 containing the desired script, and run with py. For example:
