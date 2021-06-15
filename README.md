@@ -2,6 +2,11 @@
 
 PRANCE is a new method for phage-assisted evolution of biomolecules. The ability of an M13 bacteriophage protein to perform some objective function is tied to the phage's ability to reproduce, thereby selecting for phage variants which successfully perform the objective function in an evolutionary sense.
 
+To accomplish this, bacteria are constantly cycled onto the deck into wells containing evolving populations of the M13 phage. The flowrate of bacteria culture is fast enough that they do not have time to divide before being cycled off the deck into waste. Meanwhile, samples of the phage-inoculated wells (or lagoons) are dispensed to reader plates which are transported to a ClarioStar plate reader to assess the average phage activity in each well. This data is used to automatically update the stringency of the selection on a well-to-well basis, providing a form of automatic feedback control for the slection. 
+
+https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1
+
+
 For a Hamilton robot to be PRANCE-compatible, certain equipment must be installed.
 
 ## How to enable PRANCE on a Hamilton Microlab STAR
