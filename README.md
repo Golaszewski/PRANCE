@@ -1,6 +1,6 @@
 # PRANCE: Phage-and-Robotics Assisted Near-Continuous Evolution
 
-PRANCE is a new method for phage-assisted evolution of biomolecules.
+PRANCE is a new method for phage-assisted evolution of biomolecules. The ability of an M13 bacteriophage protein to perform some objective function is tied to the phage's ability to reproduce, thereby selecting for phage variants which successfully perform the objective function in an evolutionary sense.
 
 For a Hamilton robot to be PRANCE-compatible, certain equipment must be installed.
 
@@ -19,7 +19,6 @@ only works with the specific equipment indicated in this guide. Different equipm
 same experimental outcome  as long as the protocol is followed, but you will have to create and implement 
 your own integration schemes if you choose this option. 
 
-https://www.biorxiv.org/content/10.1101/2020.04.01.021022v1
 
 Equipment | Description
 ------------- | -------------
