@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/Golaszewski/PRANCE/blob/main/Extras/Life-cycle-of-filamentous-phages-Filamentous-phage-binds-to-the-F-pilus-of-a-host-E%20(1).png =300x300)
 
+<img src=https://github.com/Golaszewski/PRANCE/blob/main/Extras/Life-cycle-of-filamentous-phages-Filamentous-phage-binds-to-the-F-pilus-of-a-host-E%20(1).png width="300" height="300"/>
+
 *Huang, Johnny & Bishop-Hurley, Sharon & Cooper, Matthew. (2012). Development of Anti-Infectives Using Phage Display: Biological Agents against Bacteria, Viruses, and Parasites. Antimicrobial agents and chemotherapy. 56. 4569-82. 10.1128/AAC.00567-12.*
 
 PRANCE is a new method for phage-assisted evolution of biomolecules. The ability of an M13 bacteriophage protein to perform some objective function is tied to the phage's ability to reproduce, thereby selecting for phage variants which successfully perform the objective function in an evolutionary sense.
