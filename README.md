@@ -3,7 +3,6 @@
 
 <img src=https://github.com/stefangolas/PRANCE/blob/main/Extras/diagram.png width="1100" height="325"/>
 
-*Image citation: Huang, Johnny & Bishop-Hurley, Sharon & Cooper, Matthew. (2012). Development of Anti-Infectives Using Phage Display: Biological Agents against Bacteria, Viruses, and Parasites. Antimicrobial agents and chemotherapy. 56. 4569-82. 10.1128/AAC.00567-12.*
 
 PRANCE is a new method for phage-assisted evolution of biomolecules. The ability of an M13 bacteriophage protein to perform some objective function is tied to the phage's ability to reproduce, selecting for phage variants which successfully perform the objective function.
 
