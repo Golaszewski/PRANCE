@@ -1,7 +1,7 @@
 # PRANCE: Phage-and-Robotics Assisted Near-Continuous Evolution
 
 
-<img src=https://github.com/stefangolas/PRANCE/blob/main/Extras/diagram.png width="1100" height="300"/>
+<img src=https://github.com/stefangolas/PRANCE/blob/main/Extras/diagram.png width="1100" height="325"/>
 
 *Image citation: Huang, Johnny & Bishop-Hurley, Sharon & Cooper, Matthew. (2012). Development of Anti-Infectives Using Phage Display: Biological Agents against Bacteria, Viruses, and Parasites. Antimicrobial agents and chemotherapy. 56. 4569-82. 10.1128/AAC.00567-12.*
 
